@@ -31,7 +31,7 @@ jobs:
         with:
             command: web
             config: './gin_juice.yaml'
-            environment_id: "cfb1b353-e964-4d31-8ddc-e57962986013"
+            environment_id: "75b31a9e-53aa-4eca-8d5a-d96be3f09b65"
             log_level: info
             base_url: "https://eu.ast.checkmarx.net"
             fail_on: ""
